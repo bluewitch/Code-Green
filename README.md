@@ -6,9 +6,11 @@ Greenwitch eCommerce Project
 Greenwitch is a site designed for Medical and Recreational Marijuana
 Commerce.
 
+
+
 Products
 -Herbs (earth)
-[<name>], [<quality>], [<classification>] ,[<THC%>], [<CBD%>], [<cost-per-gram>]
+(name, quality, classification ,THC%, CBD%, cost-per-gram)
 
 Name, conventional name of Herb
 Quality, White (average), Blue (above average), Green (top shelf), Black (premium)
@@ -44,12 +46,26 @@ Cost Per Gram, $USD/gram
 Glassware
 -Waterpipes/Bongs
 -Pipes
+-Fashion
+-Shirts
+-Hoodies
+-Hats
 
 
 
-Fashion
-Shirts
 
-Hoodies
 
-Hats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
